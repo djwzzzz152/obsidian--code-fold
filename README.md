@@ -13,3 +13,10 @@ Collapsible Code Block挺好但是它在折叠callout块里面的代码时会把
 
 ## 其它
 如果你想丰富它的功能可以自己把代码下下来去修改成你满意的效果。
+
+## 效果图
+展开
+<img width="833" height="387" alt="image" src="https://github.com/user-attachments/assets/a4d97b11-e13c-458c-858a-776a37849bf9" />
+
+折叠
+<img width="838" height="185" alt="image" src="https://github.com/user-attachments/assets/da574b62-bd74-4275-81a0-33d80bc1aaff" />

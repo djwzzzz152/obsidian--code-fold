@@ -1,0 +1,10 @@
+{
+  "id": "codeblock-fold",
+  "name": "Codeblock Fold",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "为代码块添加默认折叠/展开按钮",
+  "author": "djwzzzz152",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
